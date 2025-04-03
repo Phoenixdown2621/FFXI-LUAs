@@ -13,12 +13,6 @@
                                                          "Y88P"           
 ]]
 
-windower.add_to_chat(123,[[Red Mage Lua Author: Byrne #7894 (Discord))]])
-windower.add_to_chat(160,[[Movement speed by default will not equip when engaged, Press F1 to handle auto-kiting while engaged.]])
---windower.add_to_chat(123,[[   <> It is reccommended you use User- .lua at https://github.com/Byrne119/Gearswap ]]) --Right click and save link as...
---windower.add_to_chat(123,[[   <> if you have done this, put -- before lines 18 and 19. Remove -- before sharing!]])
-include('organizer-lib')
-
 
 -------------------------------------------------------------------------------------------------------------------
 -- Setup functions for this job.  Generally should not be modified.
